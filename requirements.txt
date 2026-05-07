@@ -9,3 +9,6 @@ librosa>=0.10.0
 numpy>=1.24.0
 matplotlib>=3.7.0
 Pillow>=10.0.0
+
+websockets==12.0
+soundfile==0.12.1
